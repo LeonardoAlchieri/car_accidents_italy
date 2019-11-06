@@ -10,16 +10,16 @@ _Course project for "Foundations of Probability and Statiatics"._
 _Vedere se i diversi tipi di fondo stradale, ovvero se la strada è messa bene o male, possano andare ad influire sugli incidenti. In particolare, andiamo a vedere l'impatto che si potrebbe avere sui diversi tipi di strada, e.g. mi aspetto che un'autostrada messa male possa avere un impatto maggiore sugli incidenti piuttosto che in una strada urbana._
 
 ### Analisi bivariara tra pedoni incidentati (fariti, morti) sui diversi tipi di strada
-_Vedere dove sono preponderanti gli incidenti con pedoni, con attenzione per le morti. A priori, e a rigor di logica, mi aspetterei di vedere più incidenti con pedoni in aree urbane, ma più mortali in aree extraurbane, ovvero dove la velocità di marcia è maggiore.
+_Vedere dove sono preponderanti gli incidenti con pedoni, con attenzione per le morti. A priori, e a rigor di logica, mi aspetterei di vedere più incidenti con pedoni in aree urbane, ma più mortali in aree extraurbane, ovvero dove la velocità di marcia è maggiore._
 
 ### Individuare cause di minor incidenti nel primo trimestre
-Cercare di individuare i fattori che possano portare ad avere meno incidenti nel primo trimestre. In questo ambito, potrebbe essere utile andare a cercare dataset o risultati da fonti terze.
+_Cercare di individuare i fattori che possano portare ad avere meno incidenti nel primo trimestre. In questo ambito, potrebbe essere utile andare a cercare dataset o risultati da fonti terze._
 
 ### Individuare il tipo di incidente più frequente
-Vedere quale incidente risulta più frequente e quale quello più mortale. Separare magari i casi per i differenti tipi di strada.
+_Vedere quale incidente risulta più frequente e quale quello più mortale. Separare magari i casi per i differenti tipi di strada._
 
 ### Analisi 3D con giorni e trimestri
-Andare e vedere come cambiano gli incidenti per giorni della settimana a seconda dei trimestri. Ovvero, visualizzare se ci possa essere correlazione tra il trimestre e i giorni della settimana, oppure se questi ultimi siano indipendenti.
+_Andare e vedere come cambiano gli incidenti per giorni della settimana a seconda dei trimestri. Ovvero, visualizzare se ci possa essere correlazione tra il trimestre e i giorni della settimana, oppure se questi ultimi siano indipendenti._
 
 ## Note extra
 - Si potrebbe costruire una variabile dicotomica con _giorno settimanale, giorno weekend_, e fare analisi con questa.
