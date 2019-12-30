@@ -1,0 +1,20 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Introduzione}{2}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Spiegazione dei dati}{2}{subsection.1.1}% 
+\contentsline {section}{\numberline {2}Analisi Univariata}{3}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Fascia oraria pi\IeC {\`u} critica}{3}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}L'autostrada con pi\IeC {\`u} incidenti}{4}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Le principali aree metropolitane}{5}{subsection.2.3}% 
+\contentsline {subsection}{\numberline {2.4}La distribuzione degli incidenti nelle regioni italiane}{5}{subsection.2.4}% 
+\contentsline {subsection}{\numberline {2.5}Confronto tra numero di feriti e numero di morti}{6}{subsection.2.5}% 
+\contentsline {subsection}{\numberline {2.6}Genere guidatore pi\IeC {\`u} ``pericoloso" in incidenti con un solo veicolo}{7}{subsection.2.6}% 
+\contentsline {section}{\numberline {3}Analisi dell\IeC {\textquoteright }impatto di alcuni fattori di rischio sul numero medio di morti e feriti per incidente stradale}{9}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Analisi trimestrale}{9}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Analisi di morti e feriti per ore del giorno}{11}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Analisi di morti e feriti per fondo stradale}{12}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Analisi di morti e feriti per tipo di strada}{13}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Analisi di morti e feriti per tipo di pavimentazione}{14}{subsection.3.5}% 
+\contentsline {section}{\numberline {4}Analisi Bivariata}{16}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Confronto tra fondo stradale e tipo di strada}{16}{subsection.4.1}% 
+\contentsline {section}{\numberline {5}Conclusione}{19}{section.5}% 
