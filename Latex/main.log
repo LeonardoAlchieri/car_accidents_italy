@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.23)  30 DEC 2019 18:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.23)  30 DEC 2019 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1699,14 +1699,24 @@ File: ./../results/incidenti_per_ora_orologio.pdf Graphic file (type pdf)
 <use ./../results/incidenti_per_ora_orologio.pdf>
 Package pdftex.def Info: ./../results/incidenti_per_ora_orologio.pdf  used on i
 nput line 107.
-(pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
+(pdftex.def)             Requested size: 252.94437pt x 252.94437pt.
+
+Overfull \hbox (26.23474pt too wide) in paragraph at lines 107--108
+[][] 
+ []
+
 <./../results/incidenti_per_ora.pdf, id=151, 505.89pt x 505.89pt>
 File: ./../results/incidenti_per_ora.pdf Graphic file (type pdf)
 <use ./../results/incidenti_per_ora.pdf>
 Package pdftex.def Info: ./../results/incidenti_per_ora.pdf  used on input line
  113.
-(pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
- [3
+(pdftex.def)             Requested size: 252.94437pt x 252.94437pt.
+
+Overfull \hbox (26.23474pt too wide) in paragraph at lines 113--114
+[][] 
+ []
+
+[3
 
  <./../results/incidenti_per_ora_orologio.pdf> <./../results/incidenti_per_ora.
 pdf>]
@@ -1767,15 +1777,15 @@ File: ../results/numero_morti_per_incidente.pdf Graphic file (type pdf)
 Package pdftex.def Info: ../results/numero_morti_per_incidente.pdf  used on inp
 ut line 207.
 (pdftex.def)             Requested size: 202.3524pt x 202.3524pt.
-<../results/incidenti_per_sesso.pdf, id=214, 505.89pt x 505.89pt>
-File: ../results/incidenti_per_sesso.pdf Graphic file (type pdf)
-<use ../results/incidenti_per_sesso.pdf>
-Package pdftex.def Info: ../results/incidenti_per_sesso.pdf  used on input line
- 215.
-(pdftex.def)             Requested size: 252.94437pt x 252.94437pt.
  [6 <../results/incidenti_per_100000_abitanti.pdf> <../results/incidenti_per_10
 0000_veicoli.pdf> <../results/numero_feriti_per_incidente.pdf> <../results/nume
 ro_morti_per_incidente.pdf>]
+<../results/incidenti_per_sesso.pdf, id=242, 505.89pt x 505.89pt>
+File: ../results/incidenti_per_sesso.pdf Graphic file (type pdf)
+<use ../results/incidenti_per_sesso.pdf>
+Package pdftex.def Info: ../results/incidenti_per_sesso.pdf  used on input line
+ 229.
+(pdftex.def)             Requested size: 252.94437pt x 252.94437pt.
 <../results/patenti_per_sesso.pdf, id=244, 505.89pt x 505.89pt>
 File: ../results/patenti_per_sesso.pdf Graphic file (type pdf)
 <use ../results/patenti_per_sesso.pdf>
@@ -2031,7 +2041,7 @@ f-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts
 /type1/public/lm/lmri10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/pub
 lic/lm/lmri12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lms
 y10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (21 pages, 1017266 bytes).
+Output written on main.pdf (21 pages, 1017272 bytes).
 PDF statistics:
  500 PDF objects out of 1000 (max. 8388607)
  400 compressed objects within 4 object streams

@@ -101,16 +101,16 @@
             \item Le ``03:00", siano l’orario con frequenza percentuale minore di incidenti pari allo 0.77 \% del totale.
         \end{itemize}
         
-        \begin{figure}[t]
+        \begin{figure}[h]
         \centering
             \begin{subfigure}{.48\textwidth}
-                \includegraphics[scale=0.35]{./../results/incidenti_per_ora_orologio.pdf}
+                \includegraphics[scale=0.5]{./../results/incidenti_per_ora_orologio.pdf}
                 \caption{Grafico a rosa che mostra più chiaramente le frequenze degli incidenti per fascia oraria.}
                 \label{Fig: incidenti_per_ora_orologio}
             \end{subfigure}
             \hfill
             \begin{subfigure}{.48\textwidth}
-                \includegraphics[scale=0.35]{./../results/incidenti_per_ora.pdf}
+                \includegraphics[scale=0.5]{./../results/incidenti_per_ora.pdf}
                 \caption{Grafico a bastoncini che specifica per ogni ora la frequenza percentuale di incidenti.}
                 \label{Fig: incidenti_per_ora_barrette}
             \end{subfigure}
@@ -210,12 +210,7 @@
             \end{subfigure}
             \caption{}
         \end{figure}
-        \begin{figure}[h!]
-            \centering
-            \includegraphics[scale=0.5]{../results/incidenti_per_sesso.pdf}
-            \caption{Grafico a barre che mostra le frequenze percentuali degli incidente per genere.}
-            \label{Fig: sesso_incidenti}
-        \end{figure}
+       
         
     \subsection{Genere guidatore più ``pericoloso" in incidenti con un solo veicolo}
 
@@ -229,7 +224,12 @@
         
         Il grafico in Figura \ref{Fig: sesso_incidenti} è molto significativo: mostra infatti come vi siano molti più uomini che fanno incidenti da soli rispetto alle donne. Non tiene però conto del fatto che vi siano più uomini che donne alla guida. Abbiamo quindi eseguito un'analisi più dettagliata, nella quale siamo andati a considerare anche la percentuale di patenti in Italia per i rispettivi sessi.
         
-        
+         \begin{figure}[h!]
+            \centering
+            \includegraphics[scale=0.5]{../results/incidenti_per_sesso.pdf}
+            \caption{Grafico a barre che mostra le frequenze percentuali degli incidente per genere.}
+            \label{Fig: sesso_incidenti}
+        \end{figure}
         
         Come indicato all'inizio, siamo andati a prendere i microdati relativi alle patenti fornite dal Ministero delle Infrastrutture e dei Trasporti per il 2017. In Figura \ref{Fig: tot_patenti} si mostra la distribuzione delle patenti in Italia.
         \begin{figure}[h]
